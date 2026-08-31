@@ -4,19 +4,9 @@
     box-sizing: border-box;
 }
 
-.hero h1 {
+.hero {
+  background-color: #0f3d3e;
+  padding: 3rem 1.5rem;
   color: #fde68a;
-  font-family: sans-serif;
-}
-.hero .datum {
-  color: #fde68a;
-  font-family: sans-serif;
-}
-.hero .plats {
-  color:#fde68a;
-  font-family: sans-serif;
-}
-.hero .tagline {
-  color:#fde68a;
   font-family: sans-serif;
 }
