@@ -10,3 +10,8 @@
   color: #fde68a;
   font-family: sans-serif;
 }
+
+.hero .btn {
+  color: #0f172a; /* Bryter arvet medvetet */
+  background-color: #fde68a;
+}
