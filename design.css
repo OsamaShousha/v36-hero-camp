@@ -1,0 +1,28 @@
+.hero {
+  background-color: #0f172a;
+  padding: 3rem 1.5rem;
+  color: #f8fafc;
+}
+
+.hero .btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1rem;
+  background-color: #fde68a;
+  color: #0f172a;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.card {
+  margin: 1.5rem 0;
+  padding: 1.5rem;
+  background-color: #f1f5f9;
+  color: #334155;
+}
+
+footer {
+  padding: 1.5rem;
+  text-align: center;
+  color: #64748b;
+}
