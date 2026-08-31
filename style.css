@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hero {
+    padding: 2rem;
+    background-color: #ccc;
+    color:rgb(5, 13, 20)
+}
